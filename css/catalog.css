@@ -13,7 +13,7 @@
   width: 154px;
   height: 48px;
   color: #C9C8ED;
-  
+
 }
 .button-2{
   border: 1px solid #C9C8ED;
@@ -60,7 +60,7 @@
   width: 436px;
   min-height: 424px;
   background-color: black;
-  
+
 }
 .btn-goods{
   border-radius: 12px;
@@ -75,7 +75,7 @@
   column-gap: 8px;
 }
 .div-cards-1{
-  
+
   column-gap: 24px;
 }
 
@@ -90,7 +90,7 @@
   }
 }
 .div-cards-2{
-  
+
   column-gap: 24px;
 }
 .buttons{
@@ -104,7 +104,7 @@
   background-size: cover;
 }
 ._gta_5{
-  background-image: url("../images/image-card/_gta_5.webp");
+  background-image: url("../images/image-card/gta5.webp");
   background-size: cover;
 }
 .cyberpunk{
