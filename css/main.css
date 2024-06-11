@@ -1,7 +1,7 @@
-@import '/css/reset.css';
-@import '/css/base.css';
+@import './reset.css';
+@import './base.css';
 
-@import '/css/header.css';
-@import '/css/navigation.css';
-@import '/css/shopping-cards.css';
-@import '/css/catalog.css';
+@import './header.css';
+@import './navigation.css';
+@import './shopping-cards.css';
+@import './catalog.css';
