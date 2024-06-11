@@ -1,0 +1,56 @@
+.header-card {
+  border-radius: 56px;
+  padding: 32px 40px;
+  min-height: 368px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header-card__title {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 133%;
+  margin: 0;
+  color: #000;
+}
+
+.header-card__text {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 133%;
+  color: #000;
+  margin: 32px 0;
+}
+.col-12{
+  margin: 44px 0 32px;
+}
+.blue{
+  /* подключение картинки */
+  background-image: url("../images/Dying-light-2.webp");
+
+  /* чтобы картинка не повторялась */
+  background-repeat: no-repeat;
+
+  /* тип заполнения картинки */
+  background-size: cover; /* или contain */
+
+  /* центровка картинки */
+  background-position: center;
+}
+.purple{
+  background-image: url("../images/image-card/gamepad.jpg");
+  background-size: cover;
+}
+.yellow{
+  background-image: url("../images/image-card/dying.jpg");
+  background-size: cover;
+}
+.header-card__title{
+  color:#C9C8ED;
+}
+.header-card__text{
+  color:#C9C8ED;
+}

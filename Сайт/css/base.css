@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1B1C1F;
+}
+
+:root {
+  --font-family: Helvetica, sans-serif;
+  --main-color: #000;
+  --title-color: #bababa;
+}
+
+.fit-content {
+  max-width: fit-content;
+}
+
+.blue {
+  background-color: #C8DDED;
+  font-family: var(--font-family);
+}
+.purple {
+  background-color: #C9C8ED;
+}
+.yellow {
+  background-color: #FFFCB6;
+}

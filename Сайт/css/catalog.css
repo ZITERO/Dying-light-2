@@ -1,0 +1,132 @@
+.catalog-p{
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 130%;
+  color: var(--title-color);
+  margin: 80px 0 48px;
+}
+.button-1{
+  border: 1px solid #C9C8ED;
+  border-radius: 24px;
+  padding: 10px 22px 11px 22px;
+  width: 154px;
+  height: 48px;
+  color: #C9C8ED;
+  
+}
+.button-2{
+  border: 1px solid #C9C8ED;
+  border-radius: 66px;
+  padding: 10px 22px 11px 22px;
+  width: 135px;
+  height: 48px;
+  color: #C9C8ED;
+}
+.button-3{
+  border: 1px solid  #C9C8ED;
+  border-radius: 66px;
+  padding: 10px 22px 11px 22px;
+  width: 92px;
+  height: 48px;
+  color: #C9C8ED;
+}
+.button-4{
+  border: 1px solid  #C9C8ED;
+  border-radius: 66px;
+  padding: 10px 22px 11px 22px;
+  width: 146px;
+  height: 48px;
+  color: #C9C8ED;
+}
+.text{
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 130%;
+  text-align: center;
+  color: #000;
+}
+.prise{
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 130%;
+  text-align: right;
+  color: var(--main-color);
+}
+.card-ps5{
+  border-radius: 32px;
+  width: 436px;
+  min-height: 424px;
+  background-color: black;
+  
+}
+.btn-goods{
+  border-radius: 12px;
+  padding: 30px 48px;
+  width: 100%;
+}
+.card-body-2{
+
+}
+.ps5-xbox-btn{
+  border-radius: 66px;
+  column-gap: 8px;
+}
+.div-cards-1{
+  
+  column-gap: 24px;
+}
+
+@media(max-width: 992px) {
+  .div-cards-1{
+
+    flex-direction: column;
+  }
+  .div-cards-2{
+
+    flex-direction: column;
+  }
+}
+.div-cards-2{
+  
+  column-gap: 24px;
+}
+.buttons{
+  margin-bottom: 64px;
+}
+.card{
+  background-color: white;
+}
+.ragnoreg{
+  background-image: url("../images/image-card/-god-of-war-ragnarok_.jpg");
+  background-size: cover;
+}
+._gta_5{
+  background-image: url("../images/image-card/_gta_5.webp");
+  background-size: cover;
+}
+.cyberpunk{
+  background-image: url("../images/image-card/Cyberpunk2077.jpg");
+  background-size: cover;
+}
+.Stray{
+  background-image: url("../images/image-card/Stray-1.jpeg");
+  background-size: cover;
+}
+
+.card-text-1 {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 130%;
+  color: #C8DDED;
+}
+.card-title-1 {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 130%;
+  color: #C8DDED;
+}
